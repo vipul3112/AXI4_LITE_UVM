@@ -1,0 +1,5 @@
+axi_top.dut.W_ADDR2
+axi_top.dut.W_BOTH1
+axi_top.dut.W_DATA3
+axi_top.dut.W_IDLE0
+axi_top.dut.W_RESP4

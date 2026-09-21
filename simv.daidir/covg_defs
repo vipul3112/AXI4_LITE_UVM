@@ -1,0 +1,149 @@
+global coverage_group 0 pkg::axi_subscriber::axi_cg __coverage_axi_subscriber.axi_cg unused_axi_subscriber_axi_cg_loop_label pkg 0 1 0 0 0  ( 0 
+)
+ 1 1
+ 75 /fetools/work_area/frontend/Batch_11/vipulsharma/UVM/AXI4/axi_subscriber.sv
+ 14 0 0 0 1 0 0 0 0  1
+0
+0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 85 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_11
+0
+0
+0
+64
+0
+ 0
+
+5
+0
+0
+0
+ 5 cp_op 17 0 0 0 0 0 82 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn 82 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 7 32 1 9 pkg::op_e 1 1 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 5 write 18 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_0 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 4 read 19 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_1 0 0 0 0 0 0 0
+ 0
+
+ 8 cp_wstrb 22 0 0 0 0 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_2 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_2 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 4 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 6 1 1 0 0 1 1 8 all_zero 23 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_3 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 all_ones 24 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_4 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 byte0_only 25 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_5 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 byte1_only 26 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_6 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 byte2_only 27 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_7 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 10 byte3_only 28 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_8 0 0 0 0 0 0 0
+ 0
+
+ 9 cp_awaddr 32 0 0 0 0 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_9 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_9 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 4 zero 33 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_a 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 low_mid 34 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_b 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_c 0 0 0 0 0
+ 0
+
+ 8 cp_wdata 39 0 0 0 0 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_d 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_d 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3 1 1 0 0 1 1 4 zero 40 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_a 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 low_mid 41 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_b 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_c 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 8 high_mid 42 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_e 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_f 0 0 0 0 0
+ 0
+
+ 9 cp_araddr 47 0 0 0 0 0 85 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_10 85 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_10 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 0 2 32 0 0 1 0 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2 1 1 0 0 1 1 4 zero 48 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_a 0 0 0 0 0 0 0
+ 0
+ 1 1 0 0 1 1 7 low_mid 49 0 0 1 0 0 0 0 0 0 0 0 0 0 -1 0 0 -1 0 0 1 1 1 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_b 0 84 pkg_axi_subscriber_11_0::pkg_axi_subscriber_11_0_pkg_axi_subscriber_11_0_axi_cg_fn_c 0 0 0 0 0
+ 0
+
+end_coverage_group
