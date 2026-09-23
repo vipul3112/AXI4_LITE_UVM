@@ -85,8 +85,6 @@ class axi_driver extends uvm_driver #(axi_transaction);
     dvif.drv_cb.RREADY <= 0;
   endtask
     
-    
-    
 endclass
 
 `endif
